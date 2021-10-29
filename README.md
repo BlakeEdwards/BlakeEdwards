@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @BlakeEdwards
-- 👀 I love techknowledgy and the posiabilities for the future. I'm interested in programming 
+- 👀 I love technology and the possibilities for the future. I'm interested in programming 
     for change and making a difference
 - 🌱 I've finished a Tafe diploma for programming and currently about to finish my bachelor of 
     computer science(2021). Currently I am learning c++, while I did study c++ during my degree
-    I still feel there is alot to explore. Api's libaries and dependencies will be of Importance
+    I still feel there is a lot to explore. Api's libraries and dependencies will be of Importance
     to get a firm grip of the language and making me more diverse and applicable to the working force
     
     In the future I want to learn more into java react-native and nodeJs for web development. There
-    is such a wide range of fields, technologies and industries to branch into
+    is such a wide range of fields, technologies, and industries to branch into. For now 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
